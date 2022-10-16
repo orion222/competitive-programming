@@ -1,7 +1,10 @@
+package eolymp;
 
 import java.io.*;
+
+// https://www.eolymp.com/en/problems/1060
 import java.util.*;
-public class eolymp {
+public class Lines {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static PrintWriter pr = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
 	static StringTokenizer st;
